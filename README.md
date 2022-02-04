@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Itzamary
-- 👀 I’m interested in front-end-developer.
-- 🌱 I’m currently learning html5 and css3
+- 👀 I’m interested in Full stack development.
+- 🌱 I’m certified in html5 and css3. im currently working on my certification for javascript and getting closer to my goals daily.
 - 💞️ I’m looking to collaborate on my current studies.
 - 📫 How to reach me email: itzamary1gonzalez@gmail.com
 
